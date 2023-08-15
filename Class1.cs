@@ -12,6 +12,7 @@ namespace ConsoleApp1
         public static void Number()
         {
             Console.WriteLine(3+7);
+            Console.WriteLine("hello snehal and mayur");
         }
     }
 }
